@@ -1,4 +1,4 @@
-# hoopermo
+# hoopmo
 My personal repository
 
 ## **Profile:** </br>
